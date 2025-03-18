@@ -1,0 +1,78 @@
+  What is your Name?   ,  What is your Age?   ,What is your Gender? ,What is your primary mode of transport? ,How far do you travel daily (one way)? (in km) ,  How much time does it take for your commute (one way)? (in minutes),  How much do you spend on commuting per month? (in INR),"How satisfied are you with your daily commute? (1 = Very Dissatisfied, 5 = Very Satisfied) "
+Vedant Sunil Patil,17,Male,Bus,20,120,800,3
+VISHISHT PAL,17,Male,Bike/ Scoter (Petrol),3,10,500,3
+Ritika,18,Female,Bus,20km,1hr30mins,1500-2000rs,2
+Saad Shaikh,18,Male,Bike/ Scoter (Petrol),25 to 30,35 to 40 mins,600,3
+Yash Dharao ,19,Male,Bike/ Scoter (Petrol),12km,25 minutes ,2000,3
+Raj Upadhye,19,Male,Walking,1.2,30 min,0,5
+Romit,18,Male,Bus,5km,20 minutes ,15rs,5
+Mayur ,18,Male,Local Train,30,60,500,5
+Choco kalal,5,Male,Bicycle,20,80,1500,1
+Siddhesh Sakhare,19,Male,Bike/ Scoter (Petrol),2km,20 min,500,4
+Satvik Chorge,18,Male,Bike/ Scoter (Petrol),5 Km,60 mins,2000,4
+Unmesh Singnurkar ,19,Male,Bike/ Scoter (Petrol),16-18km,1hr,2000,5
+Pathare,18,Male,EV,20,60min,20,1
+Ayush,18,Male,Bike/ Scoter (Petrol),17,1.5 hrs,1600,3
+Om Hiremath ,18,Male,Bike/ Scoter (Petrol),10,25,1000,3
+Sanket Thombare ,18,Male,Bike/ Scoter (Petrol),14,30 min,1000/-,3
+Shantinath ,27,Male,Bike/ Scoter (Petrol),20,90,2000,1
+Vansh Pandit ,18,Male,EV,11 km,30,Don't know,4
+Ashutosh T. Nivangune ,18,Male,EV,0.57,20,400,5
+Ishan Kulkarni ,17,Male,Rickshaw,3 km,15,2700,3
+Jui Lokhande ,14,Female,Bus,4-5km,45 mins,1000,2
+Apurwa,21,Female,Rickshaw,16 km,60 minutes ,"₹ 10,000/- (approx)",2
+Gauri Savalekar ,28,Female,Bike/ Scoter (Petrol),5,30,1800,3
+Ruchira Balpande,29,Female,Bus,2.5 km,15 minutes ,700₹,5
+Aarushi,18,Female,Bus,9,20,900,4
+Raashi Shinde,15,Female,Bicycle,1km,10mins,Nothing,5
+Shubhra Deshmukh ,15,Female,Walking,1,15,0,5
+Varun Malhotra,20,Female,Bus,28km,2hr 26mins,2979,1
+Kartik Nayak,20,Male,Bus,8km,1hr 22mins,4764,3
+Bhavya Jain,17,Female,Train,14km,44 minutes,2522-3614rs,1
+Akash Thakur,22,Female,Bus,30km,18 minutes,2258,5
+Manisha Sinha,22,Female,Bicycle,19,10 minutes,3751,1
+Pavan Iyer,18,Male,Train,25km,42 minutes,1078,1
+Dinesh Desai,19,Male,Bus,12km,2hr 27mins,3977,4
+Kabir Nair,19,Male,Bus,19km,2hr 46mins,4590,2
+Mitali Sen,18,Female,Bus,27km,23 minutes,2140,3
+Aryan Reddy,17,Female,Bike/ Scooter (Petrol),22,2hr 43mins,1580,2
+Ananya Iyer,17,Male,Bus,29km,1hr 48mins,2853,1
+Siddharth Verma,21,Male,Bicycle,23km,39 minutes,713,4
+Shruti Gopal,17,Male,Bus,14km,2hr 51mins,881,4
+Naveen Rao,17,Male,Local Train,11km,75 minutes,1616,4
+Tanisha Deshmukh,21,Male,Bicycle,11km,12 minutes,2108-3579rs,2
+Dev Patel,21,Male,Bus,30km,1hr 17mins,2804,4
+Bhavya Jain,21,Male,Bus,26km,1hr 59mins,4377,2
+Pallavi Saxena,18,Male,Bus,4km,1hr 5mins,3200,4
+Siddharth Verma,20,Female,Bike/ Scooter (Petrol),15,61 minutes,2589,3
+Rahul Choudhary,17,Female,Bus,20km,77 minutes,4920,4
+Kabir Nair,22,Female,Bus,22,48 minutes,2594,1
+Vivek Narang,22,Male,Walking,11km,2hr 20mins,1945,4
+Dinesh Desai,19,Female,Bike/ Scooter (Petrol),30km,1hr 29mins,851,2
+Ishaan Mehta,20,Female,Bus,17km,87 minutes,1998-3566rs,1
+Bhavya Jain,17,Male,Bus,7km,11 minutes,2752,4
+Riya Kapoor,21,Female,Bus,22km,76 minutes,2921,3
+Aditya Goel,18,Female,Bicycle,20km,22 minutes,4338,4
+Tushar Patil,20,Male,Carpool,24km,38 minutes,1777,5
+Sneha Menon,21,Female,Bicycle,19km,82 minutes,3656,1
+Jatin Soni,19,Female,Train,21km,1hr 33mins,3973,3
+Riya Kapoor,21,Male,Bus,1km,2hr 32mins,2282,3
+Swati Kulkarni,18,Female,Bike/ Scooter (Petrol),14km,43 minutes,1464,1
+Gaurav Trivedi,21,Male,Bus,8km,57 minutes,2020,2
+Aditi Joshi,17,Female,Bike/ Scooter (Petrol),14km,24 minutes,3863,5
+Vaishali Rao,18,Male,Local Train,22km,1hr 12mins,4804,3
+Varun Malhotra,18,Male,Bus,25km,1hr 46mins,2230-3302rs,4
+Rahul Choudhary,17,Male,Bicycle,11km,63 minutes,1371-4182rs,3
+Naveen Rao,18,Male,Bicycle,28km,2hr 23mins,2965-4856rs,4
+Ishaan Mehta,18,Male,Train,27,26 minutes,2169,4
+Kunal Bhardwaj,22,Male,Bus,19km,1hr 55mins,1404-3415rs,2
+Rajesh Singh,17,Female,Walking,19km,36 minutes,1937,1
+Charu Pillai,21,Female,Walking,13km,1hr 50mins,839,5
+Vivek Narang,17,Male,Bus,20km,1hr 58mins,4663,2
+Pallavi Saxena,18,Male,Bus,26km,2hr 15mins,1065,5
+Neha Bajaj,21,Female,Bike/ Scooter (Petrol),29km,2hr 57mins,4376,5
+Bhavya Jain,19,Male,Local Train,9km,52 minutes,1068,2
+Riya Kapoor,21,Male,Walking,13km,37 minutes,1265-4366rs,2
+Harshit Bansal,17,Male,Bicycle,23,1hr 26mins,1712-3031rs,5
+Swati Kulkarni,17,Female,Bike/ Scooter (Petrol),25,58 minutes,3738,2
+Pooja Yadav,20,Male,Bike/ Scooter (Petrol),9km,16 minutes,3592,5
